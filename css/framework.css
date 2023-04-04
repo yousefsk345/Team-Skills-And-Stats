@@ -1,0 +1,23 @@
+.d-flex{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.d-flex-r{
+    display: flex;
+    justify-content: center;
+}
+.df-sb{
+    display: flex;
+    justify-content: space-between;
+}
+.df-sa{
+    display: flex;
+    justify-content: space-around;
+}
+.a-c{
+    text-align: center;
+}
+.co-wh{
+    color: #ffffff;
+}
